@@ -1,0 +1,25 @@
+body {text-align: left;
+  background-image: url("https://cdn.pixabay.com/photo/2019/06/23/15/42/thermometer-4294021_1280.jpg");
+  background-size: cover;
+  }
+
+
+  #temperature-up {
+    background: pink;
+  }
+
+  #temperature-down {
+    background: aqua;
+  }
+
+  #temperature-reset {
+    background: grey;
+  }
+
+  #powersaving-on {
+    background: green;
+  }
+
+  #powersaving-off {
+    background: grey;
+  }
